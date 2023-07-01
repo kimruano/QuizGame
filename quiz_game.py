@@ -42,5 +42,5 @@ else:
     incorrect = incorrect + 1
 
 print("You got " + str(correct) + " questions correct and " +
-      str(incorrect) + " questions incorrect")
+      str(incorrect) + " questions incorrect.")
 print("Your final score is " + str((correct/4)*100) + "%")
