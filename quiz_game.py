@@ -10,7 +10,7 @@ else:
     print("Okay! Let's play! :)")
 
 answer = input("What does CPU stand for? ")
-if answer.lower() == "centeral processing unit":
+if answer.lower() == "central processing unit":
     print("Correct!")
     correct = correct + 1
 else:
